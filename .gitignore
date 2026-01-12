@@ -1,0 +1,7 @@
+# ignore all csv
+*.csv
+
+# ignore vs code set
+.vscode/
+
+data/
