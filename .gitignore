@@ -5,3 +5,6 @@
 .vscode/
 
 data/
+
+#ifgnore saved
+*.joblib
