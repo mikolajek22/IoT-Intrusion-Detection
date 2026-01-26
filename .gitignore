@@ -5,7 +5,7 @@
 .vscode/
 
 data/
-
+backup/
 #ifgnore saved
 *.joblib
 
