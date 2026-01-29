@@ -8,5 +8,5 @@ data/
 backup/
 #ifgnore saved
 *.joblib
-
+*.html
 # 
